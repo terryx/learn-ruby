@@ -25,3 +25,9 @@ def app
 end
 
 app
+
+# proc stop within return and end all the current process
+# lambda will continue
+
+# think proc as case and break in a loop
+# think lambda as each loop without break
